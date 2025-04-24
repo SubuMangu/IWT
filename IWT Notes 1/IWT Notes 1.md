@@ -126,10 +126,10 @@ username=admin&password=secret123
 - Most common use of web servers are to host websites.(imp)
 - Other uses of Web Server are data storage, running enterprise applications, handling email, ftp and other web uses
 - Web servers functions in the the following ways:
-1. The website files (HTML, CSS, JavaScript, images, etc.) are stored on the server.
-2. When a user enters the website URL in a browser (like www.example.com), a request is sent to the server.
-3. The web server processes the request and sends back the appropriate web page or content.
-4. The browser displays the website using the content received.
+    1. The website files (HTML, CSS, JavaScript, images, etc.) are stored on the server.
+    2. When a user enters the website URL in a browser (like www.example.com), a request is sent to the server.
+    3. The web server processes the request and sends back the appropriate web page or content.
+    4. The browser displays the website using the content received.
 - Web server supports **server side scripting** using Active Server Pages(ASP),PHP or other scripting languages python, java,etc.
 - Server side scripting refers to writing the back end of our website.
 
