@@ -1,0 +1,38 @@
+- CSS
+    - Characteristics
+    - Syntax
+    - Stylesheet:Declaration Box.Declaration and Selector
+    - Selector Types
+    - pseudo classes
+    - Types of values used
+    - Multiple Style Sheets
+    - Cascading
+    - Inline and External css
+    - `<div>` vs `<span>`
+- Javascript(Theory)
+    - Scripting based language vs programming language
+    - java vs javascript
+    - variables and data types
+    - conditions with code
+    - array
+    - predefined fuction and user defined function
+    - mathematical functions
+    - string functions
+    - objects
+    - exception handling
+    - Built in Objects(Window,Navigator,Document,Date,Math,String)
+- Javascript(Practical)
+    - document.write(html code can be included here)
+    - prompt
+    - split
+    - parseInt
+    - alert
+    - reversing a string
+    - funtion implementation
+- XML
+    - XML over HTML
+    - General Syntax
+    - DTD and possible keywords
+    - Data Types
+    - DOM and document tree
+
