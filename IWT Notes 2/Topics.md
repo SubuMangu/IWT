@@ -7,4 +7,18 @@
 - IPv4
     - Characteristics
     - Drawback
-    - 
+    - Header
+- IPv6
+    - Advantages over IPv4
+    - Header
+    - Addressing
+        - Link Local Address
+    - Routing 
+- IPv4 vs IPv6
+- Why IPv4 still in use?
+- DNS
+- Steps for Building Website
+- Website Structure
+    - Significance
+- UI and UX
+- Types of Wesite Structure
