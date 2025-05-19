@@ -1,0 +1,27 @@
+- Marquee
+- ol(start,type)
+- ul(type)
+- dl(dd,dt)
+- table(border)
+    - tr,th,td
+    - rowspan,colspan
+    - cellspacing,cellpadding
+- hyperlink
+- img
+    - src,border,height,width,align
+- frameset(rows,cols,src)
+- form,label,input,select,textarea
+- "radio" input(name,value),"file"
+- inline css
+- internal css(id,style,#name)
+- external css(link,rel="stylesheet",href)
+- Javascript
+    - document.write(html code can be included here)
+    - prompt
+    - split
+    - parseInt
+    - switch
+    - alert
+    - reversing a string
+    - funtion implementation
+
