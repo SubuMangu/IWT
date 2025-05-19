@@ -23,6 +23,7 @@
     - Built in Objects(Window,Navigator,Document,Date,Math,String)
 - Javascript(Practical)
     - document.write(html code can be included here)
+    - document.getElementById('ID').innerHTML=
     - prompt
     - split
     - parseInt
