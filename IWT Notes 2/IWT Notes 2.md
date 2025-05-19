@@ -175,7 +175,7 @@
 
 **Link Local Address**
 - A **link-local address** is used for communication between devices on the same local network (LAN) without needing a router.
-- The first 64 bits is `fe80::/10`(training 54 bits are zeroes)
+- The first 64 bits is `fe80::/10`(remaining 54 bits are zeroes)
 - The last 64 bits represents the device identifier in LAN.
 - This means a LAN can support $2^64$ devices.
 - **Link-local address auto configuration:** A device creates its link local address automatically without any need of DHCP Server or router
