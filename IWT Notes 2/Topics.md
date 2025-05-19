@@ -1,0 +1,10 @@
+- Networking Devices:Repeaters,Bridge and Switches,Routers,Gateways
+- OSI Model
+- TCP/IP along with protocols used in each layer
+- TCP Header
+- UDP Header
+- TCP vs UDP
+- IPv4
+    - Characteristics
+    - Drawback
+    - 
